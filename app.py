@@ -354,9 +354,7 @@ HTML = """
         <section class="hero">
             <div class="eyebrow">Researcher • Energy Systems Innovator • Speaker</div>
             <h1>Fatima Alarfaj</h1>
-<img src="/static/fatima.jpg"
-     alt="Fatima Alarfaj"
-     style="width:320px;border-radius:16px;margin:20px auto;display:block;">
+            
             <p>
                 Chemical Engineering student at King Fahd University of Petroleum &amp; Minerals (KFUPM) focused on hydrogen technologies, sustainable energy systems, and the global energy transition.
             </p>
