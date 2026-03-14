@@ -354,6 +354,10 @@ HTML = """
         <section class="hero">
             <div class="eyebrow">Researcher • Energy Systems Innovator • Speaker</div>
             <h1>Fatima Alarfaj</h1>
+            <img src="fatima.jpg"
+     alt="Fatima Alarfaj"
+     style="width:320px;border-radius:16px;margin:20px auto;display:block;">
+
             <p>
                 Chemical Engineering student at King Fahd University of Petroleum &amp; Minerals (KFUPM) focused on hydrogen technologies, sustainable energy systems, and the global energy transition.
             </p>
@@ -363,34 +367,6 @@ HTML = """
             </div>
         </section>
     </div>
-
-   <div class="logo-strip">
-    <div class="logo-track">
-
-        <img src="/static/aramco.png">
-        <img src="/static/SABIC.png">
-        <img src="/static/maaden.png">
-        <img src="/static/STC-01.png">
-        <img src="/static/Roshn_Logo.png">
-        <img src="/static/misk-21-logo-light-10-588.png">
-        <img src="/static/MEWA.png">
-        <img src="/static/mcitlogo_0.png">
-        <img src="/static/ilmi.png">
-        <img src="/static/SWA_textlogo.png">
-        <img src="/static/Saudia Airlines-01.png">
-        <img src="/static/Roshn Group01.png">
-        <img src="/static/ithraapng.png">
-        <img src="/static/png.png">
-        <img src="/static/.png.png">
-        <img src="/static/misk-21-logo-light-10-588.png">
-        <img src="/static/images k.png">
-        <img src="/static/3827980ca7042e01b8d2ebf1f155da09.png">
-        <img src="/static/3136571-1629284407.png">
-
-
-    </div>
-</div>
-    
 
     <div class="container">
         <section id="about" class="reveal">
